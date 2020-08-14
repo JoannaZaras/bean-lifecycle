@@ -10,6 +10,7 @@ public class AppConfiguration {
     public LibraryManager libraryManager() {
         return new LibraryManager();
     }
+
     @Bean
     public SampleBean sampleBean() {
         return new SampleBean();

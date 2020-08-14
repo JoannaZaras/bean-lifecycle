@@ -47,5 +47,4 @@ public class LibraryManager implements BeanNameAware, BeanClassLoaderAware, Bean
         System.out.println("Method with @PreDestroy annotation");
     }
 
-
 }
