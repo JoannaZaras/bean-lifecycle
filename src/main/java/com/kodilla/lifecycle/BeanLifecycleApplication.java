@@ -1,5 +1,7 @@
 package com.kodilla.lifecycle;
 
+import com.kodilla.lifecycle.beans.LibraryManager;
+import com.kodilla.lifecycle.beans.SampleBean;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 

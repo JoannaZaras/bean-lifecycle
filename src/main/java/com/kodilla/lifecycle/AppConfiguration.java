@@ -1,5 +1,9 @@
 package com.kodilla.lifecycle;
 
+import com.kodilla.lifecycle.beans.LibraryManager;
+import com.kodilla.lifecycle.beans.SampleBean;
+import com.kodilla.lifecycle.monitors.BeanCreationMonitor;
+import com.kodilla.lifecycle.monitors.BeanMonitor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

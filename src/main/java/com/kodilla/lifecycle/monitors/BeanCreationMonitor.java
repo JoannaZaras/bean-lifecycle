@@ -1,4 +1,4 @@
-package com.kodilla.lifecycle;
+package com.kodilla.lifecycle.monitors;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
